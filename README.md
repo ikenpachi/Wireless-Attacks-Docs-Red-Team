@@ -1,11 +1,20 @@
 # Wireless Attacks - Red Team 
 
-Welcome to the Wireless Attacks - Red Team documentation. This space contains studies, tools and solutions to challenges on wireless network security.
+Welcome to the **Wireless Attacks - Red Team** documentation. This space contains studies, tools, and solutions for challenges related to wireless network security.
 
-## 🔗 Navigation  
-- 📖 [Basic Concepts](https://github.com/ikenpachi/Wireless-Attacks-Docs-Red-Team/wiki/Basic-Concepts)
-- 🔧 [Tools]
-- ⚡ [Wireless Attacks]
-- 🎯 [CTF - Solved Challenges]
-- 📜 [Useful Scripts]
-- 🔍 [Resources and References]
+## Navigation  
+
+###  Concepts and Fundamentals
+- [Basic Concepts](https://github.com/ikenpachi/Wireless-Attacks-Docs-Red-Team/wiki/Basic-Concepts)
+
+### Tools
+-  [Kismet](https://github.com/ikenpachi/Wireless-Attacks-Docs-Red-Team/wiki/Kismet)
+-  [Aircrack-ng](https://github.com/ikenpachi/Wireless-Attacks-Docs-Red-Team/wiki/Aircrack%E2%80%90ng)
+
+###  Challenges
+-  [CTF - Solved Challenges](#)
+
+### Scripts and Resources
+-  [Useful Scripts](#)
+- [Resources and References](#)
+
