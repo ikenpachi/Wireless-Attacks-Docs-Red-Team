@@ -22,5 +22,5 @@ Welcome to the **Wireless Attacks - Red Team** documentation. This space contain
 
 ### Scripts and Resources
 - [Useful Scripts](#)
-- [Resources and References](#)
+- [Resources and References](https://github.com/ikenpachi/Wireless-Attacks-Docs-Red-Team/wiki/Resources-and-References)
 
